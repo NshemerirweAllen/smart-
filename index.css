@@ -1,0 +1,18 @@
+.hd{
+    display:flex;
+    margin:10px;
+ 
+}
+.hd div{
+    background: chartreuse;
+    width:10%;
+    height: 50px;
+    margin: 2px;
+    padding: 12px 12px;
+    text-align: center;
+    text-emphasis: none;
+
+}
+.gh a{
+    text-decoration:none ;
+}
